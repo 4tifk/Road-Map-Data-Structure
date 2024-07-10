@@ -1,1 +1,3 @@
 # Road-Map-Data-Structure
+<br />
+The project involves designing and implementing a data structure to represent road networks, specifically tailored for electric cars. This road map is modeled as an undirected graph where vertices denote places and edges represent roads connecting these places, each with a specified length. Each vertex stores the availability of charging stations, addressing the limited range of electric cars. The primary functionalities include loading a map from a file, checking connectivity between two places with charging stations, and determining the minimum number of assistance cars required for the map
